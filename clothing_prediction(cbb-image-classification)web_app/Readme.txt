@@ -1,0 +1,1 @@
+Python, Flask, Tensorflow, Keras, HTML, Virtual Environment, CNN Model, Image Classification and Google Collab.

@@ -1,0 +1,1 @@
+Python, Django, Reactjs, API, Django Rest Framework, ORM, Sqlite3, Virtual Environment.
